@@ -1,6 +1,12 @@
-# ShoppingCartSystem
+# Shopping Cart System
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+
+## Description
+
+This project was created by following the guidance of the introductory tutorial laid out by angular.io (Check out the tutorial here at https://angular.io/start). It is a simple front-end web application that sells electronic products. Customers can click on each product name to view its description and price, as well as buy the product. In addition, the customer can share the product with others. For products with a price of over $700, there will be a 'Notify Me' button that appears under the product name. To checkout, the customer will click on the 'Checkout' button, which will display the list of products that have been bought by the customer. On this page as well, the customer can view the list of shipping prices. 
+
+To view how this project works, one can click on this link: https://angular-afwgf6.stackblitz.io .
 
 ## Development server
 
